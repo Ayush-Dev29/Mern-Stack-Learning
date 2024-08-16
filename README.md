@@ -1,4 +1,4 @@
-Basic calculator and tic-tac-toe app using:
+# Basic calculator and tic-tac-toe app using:
 
 • html
 
